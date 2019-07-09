@@ -1,0 +1,7 @@
+Credentials cache: API:53824
+        Principal: aksuleim@42.US.ORG
+
+  Issued                Expires               Principal
+Jul  9 10:07:25 2019  Jul  9 20:07:25 2019  krbtgt/42.US.ORG@42.US.ORG
+Jul  9 10:07:26 2019  Jul  9 20:07:25 2019  ldap/ldap-master.42.us.org@42.US.ORG
+Jul  9 12:11:23 2019  Jul  9 20:07:25 2019  host/vgs-fn1.42.us.org@42.US.
